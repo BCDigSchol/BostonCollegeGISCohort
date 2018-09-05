@@ -8,6 +8,6 @@ Welcome to Boston College GIS Cohort!
 
 All the GIS cohort lesson plan, as well as the link to the exercise materials and resources will be posted on this website.
 
-Check out the GIS Cohort GitHub Repository from: [https://github.com/BCDigSchol/gis-cohort](https://github.com/BCDigSchol/BostonCollegeGISCohort)
+Check out the GIS Cohort GitHub Repository from: [https://github.com/BCDigSchol/BostonCollegeGISCohort](https://github.com/BCDigSchol/BostonCollegeGISCohort)
 
 If you have questions, you can email us @ [bcdigschol-gggroup@bc.edu](mailto:bcdigschol-gggroup@bc.edu).
