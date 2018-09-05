@@ -28,6 +28,8 @@ permalink: /Week1/
 
 * Slides are available to download: [Download the Slides - Introduction to GIS and Spatial Thinking](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/master/Week1/IntroductionGISCohortFinal_9_4_18.pptx?raw=true)
 
+* [Tech requirements](https://docs.google.com/document/d/1hC_9KEJesW5sKq8qvlL-5xJa3VoOjgDc3_Hp_GUxuPE/edit) for installing and running ArcGIS
+
 ### More Resources
 * [Data Visualization Catalogue](https://datavizcatalogue.com/)
 * [Research Services Ongoing Workshops](http://www.bc.edu/offices/researchservices/tutorials.html)
