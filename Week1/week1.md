@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Week 1
-permalink: /Week1/
+title: Month 1
+permalink: /Month 1/
 ---
 
-### GIS Cohort Week 1 (9/5/2018)
+### GIS Cohort Month 1 (9/5/2018)
 
 ### Schedule
 
