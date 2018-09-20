@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 4
-permalink: /Week4/
+title: Month 4
+permalink: /Month4/
 ---
-### GIS Cohort Week 4 (12/5/2018)
+### GIS Cohort Month 4 (12/5/2018)
