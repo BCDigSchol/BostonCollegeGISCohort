@@ -19,7 +19,7 @@ permalink: /Month2/
 
 * Use a data set to create a map in QGIS: All of the data sets for exercise are contained in one Zip file: [Download the Zip file](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/master/Week1/GIS%20Cohort%201%20Data.zip?raw=true)
 
-  - [QGIS Tutorials and Tips] (https://www.qgistutorials.com/en/)
+  - [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/)
 
 * [Tech requirements](https://docs.google.com/document/d/1hC_9KEJesW5sKq8qvlL-5xJa3VoOjgDc3_Hp_GUxuPE/edit) for installing and running ArcGIS and QGIS
 
