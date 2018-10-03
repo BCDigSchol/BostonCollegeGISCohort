@@ -17,7 +17,7 @@ permalink: /Month2/
 
 ### Download Exercise Materials
 
-* Use a data set to create a map in QGIS: All of the data sets for exercise are contained in one Zip file: [Download the Zip file](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%202/GIS%20Cohort%20Month%202%20Data.zip?raw=true)
+* Use a data set to create a map in QGIS: All of the data sets for exercise are contained in one Zip file: [Download the Zip file](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%202/GIS%20Cohort%20Month%202%20Data.zip ?raw=true)
   - [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/)
  
 
