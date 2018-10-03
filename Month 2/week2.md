@@ -9,7 +9,7 @@ permalink: /Month2/
 
 * 1:00–1:40. QGIS Demo
 * 1:40–1:50. Q&A
-* 1:50–2:10. Break time
+* 1:50–2:00. Break time
 * 2:00–2:20. Presentation of project
 * 2:20–2:50. Group Discussion
 * 2:50–3:00. Debriefing
