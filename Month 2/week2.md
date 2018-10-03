@@ -21,8 +21,7 @@ permalink: /Month2/
 
   - [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/)
 
-* Slides are available to download: [Download the Slides -GIS Cohort Month 2] 
-(https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%202/GIS%20Cohort%20Month%202.pptx?raw=true)
+* Slides are available to download: [Download the Slides -GIS Cohort Month 2](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%202/GIS%20Cohort%20Month%202.pptx?raw=true)
 
 * [Tech requirements](https://docs.google.com/document/d/1hC_9KEJesW5sKq8qvlL-5xJa3VoOjgDc3_Hp_GUxuPE/edit) for installing and running ArcGIS and QGIS
 
