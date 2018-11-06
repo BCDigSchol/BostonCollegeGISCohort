@@ -24,7 +24,7 @@ permalink: /Month3/
 [Download the Zip file](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%203/Georectifying%20zipfile.zip?raw=true)
 
 * Georectifying Historical Maps Using QGIS: 
-[Download the Zip file](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%203/Georectifying%20zipfile.zip?raw=true)
+[Download the Zip file](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%203/GeorectifyingQGIS%20zipfile.zip?raw=true)
 
 * [Tech requirements](https://docs.google.com/document/d/1hC_9KEJesW5sKq8qvlL-5xJa3VoOjgDc3_Hp_GUxuPE/edit) for installing and running ArcGIS and QGIS
 
