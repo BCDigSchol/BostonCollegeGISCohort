@@ -23,8 +23,8 @@ permalink: /Month3/
 * Georectifying Historical Maps Using ArcMap: 
 [Download the Zip file](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%203/Georectifying%20zipfile.zip?raw=true)
 
-* Georectifying Historical Maps Using QGIS: 
-[Download the Zip file](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%203/GeorectifyingQGIS%20zipfile.zip?raw=true)
+* [Georectifying Historical Maps Using QGIS]
+(https://docs.google.com/document/d/1wDJ_Hw4eYlNBp1p7MpaSfQvdwlCr3wZgNEVfbAzgqcg/edit?usp=sharing)
 
 * [Georectifying Historical Maps Using Web Tools](https://docs.google.com/document/d/1VHDhJInz3LBrKcAX-E1C0gbQ0yBbmFwqfPbZETwb1RI/edit?usp=gmail)
 
