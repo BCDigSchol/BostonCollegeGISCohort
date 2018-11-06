@@ -8,7 +8,7 @@ permalink: /Month3/
 ### Schedule
 
 * 1:00–1:05. Intro
-* 1:05–1:35. Georectifying with ArcGIS 
+* 1:05–1:35. Georectifying with ArcGIS and QGIS
 * 1:35–2:00. Georectifying with MapWarper
 * 2:00–2:15. Break
 * 2:15–2:35. Presentation of project -Richard
@@ -17,10 +17,16 @@ permalink: /Month3/
 
 ### Download Exercise Materials
 
-* Georectifying Historical Maps Using ArcMap: [Download the Zip file]
-()
 
 * 1844 map of Boston is available to download: [Download the historical map](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~237717~5511185:Boston)
+
+* Georectifying Historical Maps Using ArcMap: [Download the Zip file]
+(https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%203/Georectifying%20zipfile.zip?raw =true)
+
+
+* Georectifying Historical Maps Using QGIS: [Download the Zip file]
+(https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%203/Georectifying%20zipfile.zip?raw =true)
+
 
 * [Tech requirements](https://docs.google.com/document/d/1hC_9KEJesW5sKq8qvlL-5xJa3VoOjgDc3_Hp_GUxuPE/edit) for installing and running ArcGIS and QGIS
 
