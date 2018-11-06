@@ -37,4 +37,3 @@ permalink: /Month3/
 * [Sanborn Historical Insurance Maps](https://loc.gov/collections/sanborn-maps/)
 
 
-https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%203/Georectifying%20zipfile.zip
