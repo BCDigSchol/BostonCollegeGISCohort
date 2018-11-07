@@ -15,7 +15,7 @@ permalink: /Month3/
 * 2:35–2:50. Group Discussion
 * 2:50–3:00. Wrap up
 
-### Download Exercise Materials
+### Download Exercise Materials & Presentation slides 
 
 
 * 1844 map of Boston is available to download: [Download the historical map](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~237717~5511185:Boston)
@@ -27,8 +27,10 @@ permalink: /Month3/
 
 * [Georectifying Historical Maps Using Web Tools](https://docs.google.com/document/d/1VHDhJInz3LBrKcAX-E1C0gbQ0yBbmFwqfPbZETwb1RI/edit?usp=gmail)
 
-* [Tech requirements](https://docs.google.com/document/d/1hC_9KEJesW5sKq8qvlL-5xJa3VoOjgDc3_Hp_GUxuPE/edit) for installing and running ArcGIS and QGIS
 
+* [GIS Examples Presentation From My Research by Richard L. Sweeney](http://www.richard-sweeney.com/presentations/GISCohort/GISCohort)
+
+* [Tech requirements](https://docs.google.com/document/d/1hC_9KEJesW5sKq8qvlL-5xJa3VoOjgDc3_Hp_GUxuPE/edit) for installing and running ArcGIS and QGIS
 
 ### More Resources
 * [David Rumsey](https://www.davidrumsey.com/)
