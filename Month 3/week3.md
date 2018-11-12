@@ -21,7 +21,7 @@ permalink: /Month3/
 * 1844 map of Boston is available to download: [Download the historical map](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~237717~5511185:Boston)
 
 * Georeferencing Historical Maps Using ArcMap: 
-[Download the Zip file](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%203/Georeferencing%20zipfile.zip?raw=true)
+[Download the Zip file](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%203/Georeferencing.zip?raw=true)
 
 * [Georectifying Historical Maps Using QGIS](https://docs.google.com/document/d/1wDJ_Hw4eYlNBp1p7MpaSfQvdwlCr3wZgNEVfbAzgqcg/edit?usp=sharing)
 
