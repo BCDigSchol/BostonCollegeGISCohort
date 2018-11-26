@@ -13,7 +13,14 @@ permalink: /Month4/
 * 2:10–2:40. Group Discussion
 * 2:40–3:00. Wrap up
 
-More resources
+### More resources
 
-https://www.zotero.org/groups/2205024/giscohort
+* [Zotero Reading Group](https://www.zotero.org/groups/2205024/giscohort)
+* [ArcGIS Lessons](https://learn.arcgis.com/en/)
+* [Carto Tutorials](https://carto.com/docs/tutorials/)
+* [QGIS Tutorials](https://www.qgistutorials.com/)
+* [Tableau Tutorials](https://www.tableau.com/learn/training)
+* [BC GIS LibGuide](https://libguides.bc.edu/gis)
+
+
 
