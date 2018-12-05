@@ -13,6 +13,14 @@ permalink: /Month4/
 * 2:10–2:40. Group Discussion
 * 2:40–3:00. Wrap up
 
+
+### Guest Speaker
+[Peter Laptewicz](https://www.linkedin.com/in/peter-laptewicz-533a2178/), GIS Manager and Facilities Information Analyst at Boston College. 
+
+[Nick Libby](https://www.linkedin.com/in/nicholas-libby-778254a9/), BIM & Facilities Information Analyst at Boston College.
+
+
+
 ### More resources
 
 * [Zotero Reading Group](https://www.zotero.org/groups/2205024/giscohort)
