@@ -7,25 +7,23 @@ permalink: /Month5/
 
 ### Schedule
 
-* 1:00–1:05. Intro
-* 1:05–1:50. Guest Speaking
+* 1:00–1:05. Announcements — Sarah
+* 1:05–1:20. Faculty Data & Project Intro — Lauren H.
+* 1:20–1:50. Open Refine — Anna & Sarah
 * 1:50–2:10. Break
-* 2:10–2:40. Group Discussion
-* 2:40–3:00. Wrap up
-
-
-### Guest Speaker
-
+* 2:10–2:25. Geocoding via API— Anna
+* 2:25–2:40. Mapping the data — Barbara & Allison
+* 2:40–3:00. Debriefing
 
 
 ### More resources
 
-* [Zotero Reading Group](https://www.zotero.org/groups/2205024/giscohort)
-* [ArcGIS Lessons](https://learn.arcgis.com/en/)
-* [Carto Tutorials](https://carto.com/docs/tutorials/)
-* [QGIS Tutorials](https://www.qgistutorials.com/)
-* [Tableau Tutorials](https://www.tableau.com/learn/training)
-* [BC GIS LibGuide](https://libguides.bc.edu/gis)
+* 
+* 
+* 
+* 
+* 
+* 
 
 
 
