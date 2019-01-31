@@ -25,6 +25,6 @@ permalink: /Month5/
 ### More resources
 
 * [General Refine Expression Language](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language)
-* Harris, Ruth-Ann, 2017, "Information Wanted", [https://doi.org/10.7910/DVN/UNJU3N](https://doi.org/10.7910/DVN/UNJU3N), Harvard Dataverse.
+* Harris, Ruth-Ann, 2017, "Information Wanted." Harvard Dataverse. [https://doi.org/10.7910/DVN/UNJU3N](https://doi.org/10.7910/DVN/UNJU3N).
 * Hooland, Seth van, Ruben Verborgh, and Max De Wilde. ["Cleaning Data with OpenRefine."](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine) The Programming Historian.
 * ["Library Carpentry OpenRefine."](https://librarycarpentry.org/lc-open-refine/) Library Carpentry. 
