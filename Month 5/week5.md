@@ -17,7 +17,7 @@ permalink: /Month5/
 
 ### Exercise Materials
 
-* We will use [sample data](https://github.com/BCDigSchol/coffee-code/tree/master/data-prep/data) from the Information Wanted dataset
+* We will use [sample data](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%205/infowanteddata.zip) from the Information Wanted dataset
 * [Download](http://openrefine.org/) and install OpenRefine on your laptop
 * [View data prep and cleaning tips](https://github.com/BCDigSchol/coffee-code/tree/master/data-prep)
 * Geocoding your data will require that you sign up for an [OpenCage data API key](https://opencagedata.com/api)
