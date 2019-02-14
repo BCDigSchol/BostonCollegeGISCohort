@@ -3,7 +3,7 @@ layout: page
 title: Month 7
 permalink: /Month7/
 ---
-### GIS Cohort Month 7 (4/10/2019)
+### GIS Cohort Month 7 (4/3/2019)
 
 ### Schedule
 
