@@ -7,12 +7,12 @@ permalink: /Month6/
 
 ### Schedule
 
-* 1:00–1:05. 
-* 1:05–1:20. 
-* 1:20–1:50. 
-* 1:50–2:10.
-* 2:10–2:40. 
-* 2:40–3:00. 
+* 1:00–1:05. Intro
+* 1:05–1:25. case study of data set 
+* 1:25–1:50. Comparison of online mapping platforms
+* 1:50–2:10. Break
+* 2:10–2:30. Hands-on exercise examining platform 
+* 2:30–2:45. Report Back
 
 ### Exercise Materials
 
