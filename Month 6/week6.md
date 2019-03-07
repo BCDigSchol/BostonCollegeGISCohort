@@ -15,7 +15,9 @@ permalink: /Month6/
 
 ### Exercise Materials
 
-* 
+* Download the dataset: 
+https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml 
+https://docs.google.com/spreadsheets/d/1IRBIOBywJ9nNqBOf6VX0KXOmkMAc8c1dEr5qiu84TN8/edit#gid=1438429083
 * 
 * 
 * 
