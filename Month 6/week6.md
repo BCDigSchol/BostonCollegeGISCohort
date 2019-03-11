@@ -21,6 +21,4 @@ permalink: /Month6/
 ### More resources
 
 * [American FactFinder Community Facts](https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml)
-*
-*
-*
+* [County to County Migration Flows, United States Census](https://www.census.gov/topics/population/migration/guidance/county-to-county-migration-flows.html)
