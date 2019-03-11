@@ -15,7 +15,6 @@ permalink: /Month6/
 
 ### Exercise Materials
 
-* Download [dataset](https://docs.google.com/spreadsheets/d/1IRBIOBywJ9nNqBOf6VX0KXOmkMAc8c1dEr5qiu84TN8/edit#gid=1438429083) for use with [Flowmap.blue](https://flowmap.blue/)
 * Download [dataset](https://drive.google.com/drive/folders/18gYVoEPi458n5F2vJx1eEDohZBY8EpKS) for use with [Story Maps (Esri)](https://storymaps.arcgis.com/) and [Carto](https://carto.com/signup/)
 
 ### More resources
