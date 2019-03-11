@@ -22,4 +22,4 @@ permalink: /Month6/
 
 * [American FactFinder Community Facts](https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml)
 * [County to County Migration Flows, United States Census](https://www.census.gov/topics/population/migration/guidance/county-to-county-migration-flows.html)
-* [Supplementeal Nutrition Assistance Program Community Characteristis](https://www.fns.usda.gov/ops/snap-community-characteristics-massachusetts)
+* [Supplemental Nutrition Assistance Program Community Characteristis](https://www.fns.usda.gov/ops/snap-community-characteristics-massachusetts)
