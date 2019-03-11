@@ -7,7 +7,7 @@ permalink: /Month6/
 
 ### Schedule
 * 1:00 - 1:05 Intro 
-* 1:05 - 1:20 Brief overview of web-based mapping tools and dataset for exercise
+* 1:05 - 1:20 Brief overview of web-based mapping tools and dataset for exercise [View slides](https://github.com/BCDigSchol/BostonCollegeGISCohort/blob/gh-pages/Month%206/GISCohort_Month6.pdf)
 * 1:20 - 1:50 Hands-on exercise examining platforms 
 * 1:50 - 2:10 Break 
 * 2:10 - 2:30 Report back 
